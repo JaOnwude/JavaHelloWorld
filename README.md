@@ -6,7 +6,7 @@ This is a small console program written in Java. It prints "Hello World", greets
 
 I created it to confirm that my Java setup works (JDK, VS Code, and Git) and to practice the basics I will use in larger Java programs: classes, the `main` method, variables, loops, and methods.
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/spirPjYMs4E?si=FFdI2x4-2gjebCa1
 
 # Development Environment
 
